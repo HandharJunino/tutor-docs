@@ -14,7 +14,7 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-landing_page
+landing_page.rst
 
 .. toctree::
 
