@@ -14,10 +14,10 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-landing_page.rst
 
 .. toctree::
 
    usage
    api
    landing_page
+
