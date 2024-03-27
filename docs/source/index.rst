@@ -20,3 +20,4 @@ landing_page.rst
 
    usage
    api
+   landing_page
