@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Tutor app - A web app for connecting tutors and students to allow enable online learning.
 """
 
 __version__ = "0.1.0"
