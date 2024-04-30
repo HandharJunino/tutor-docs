@@ -21,3 +21,4 @@ Contents
    api
    landing_page
 
+docs/source/index.rst
