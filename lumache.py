@@ -1,5 +1,5 @@
 """
-Tutor app - A web app for connecting tutors and students to allow enable online learning.
+Tutor app - A web HELLO app for connecting tutors and students to allow enable online learning.
 """
 
 __version__ = "0.1.0"
